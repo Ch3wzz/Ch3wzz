@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chewzz
 - 👀 I’m interested in coding/gaming
-- 🌱 I’m currently learning java and javascript
+- 🌱 I’m currently learning java, C#, and javascript
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me 'null'
 
